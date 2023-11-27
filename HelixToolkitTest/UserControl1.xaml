@@ -7,7 +7,7 @@
              xmlns:local="clr-namespace:HelixToolkitTest"
              mc:Ignorable="d" 
              d:DesignHeight="450" d:DesignWidth="800">
-    <hx:Viewport3DX BackgroundColor="Red">
+    <hx:Viewport3DX BackgroundColor="Red" MinHeight="300">
         <hx:Viewport3DX.EffectsManager>
             <hx:DefaultEffectsManager/>
         </hx:Viewport3DX.EffectsManager>
